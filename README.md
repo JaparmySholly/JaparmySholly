@@ -1,7 +1,7 @@
 # :man_technologist: About Me 
 ## Yo! Welcome to my page. I'm Ajagbe Pamilerin Shola, a Cyber security specialist, a penetration tester and a software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
-![](https://komarev.com/ghpvc/?username=JaparmySholly&color=dc143c)
+![](https://komarev.com/ghpvc/?username=JaparmySholly&color=blue)
 
 - :seedling: Exploring the Tech World.
 - :mailbox: How to reach me: 
@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
   <a href="mailto: japarmysholly@gmail.com">
-    <img src="https://img.shields.io/badge/Mail-blue?style=for-the-badge&logo=mailbox&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Mail-blue?style=for-the-badge&logo=mail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
 
