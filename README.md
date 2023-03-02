@@ -1,8 +1,8 @@
-Yo! Welcome to my page. 
-
-  
 # :man_technologist: About Me 
-## I'm Ajagbe Pamilerin Shola, a Cyber security specialist, a penetration tester and a software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+## Yo! Welcome to my page. I'm Ajagbe Pamilerin Shola, a Cyber security specialist, a penetration tester and a software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+
+![](https://komarev.com/ghpvc/?username=SeasonLeague&color=dc143c)
+
 - :seedling: Exploring the Tech World.
 - :mailbox:How to reach me: https://twitter.com/JaparmySholly
 
