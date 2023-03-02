@@ -39,6 +39,6 @@
 
 ## :fire: My GitHub Statistics 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JaparmySholly&theme=dark&hide_border=true&border_radius=4.9&date_format=M%20j%5B%2C%20Y%5D)]
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JaparmySholly&theme=dark&hide_border=true&border_radius=4.9&date_format=M%20j%5B%2C%20Y%5D)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaparmySholly&layout=compact&theme=vision-friendly-dark)](https://github.com/JaparmySholly/github-readme-stats)
 
