@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=JaparmySholly&color=dc143c)
 
 - :seedling: Exploring the Tech World.
-- :mailbox:How to reach me: 
+- :mailbox: How to reach me: 
  <div id="badges">
   <a href="https://ng.linkedin.com/in/japarmysholly">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
   <a href="mailto: japarmysholly@gmail.com">
-    <img src="https://img.shields.io/badge/Mail-blue?style=for-the-badge&logo=mail&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Mail-blue?style=for-the-badge&logo=mailbox&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
 
