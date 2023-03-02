@@ -40,8 +40,8 @@
 ## :fire: My GitHub Statistics 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaparmySholly&layout=compact&theme=light&align="left")
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JaparmySholly&theme=light&hide_border=true&align="center"&border_radius=4.9&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak] align="right" (https://github-readme-streak-stats.herokuapp.com?user=JaparmySholly&theme=light&hide_border=true&align="center"&border_radius=4.9&date_format=M%20j%5B%2C%20Y%5D)
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=JaparmySholly&theme=light&show_icons=true&locale=en" alt="JaparmySholly" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JaparmySholly&theme=light&show_icons=true&locale=en" alt="JaparmySholly" /></p>
 
 
