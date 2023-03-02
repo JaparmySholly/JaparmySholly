@@ -15,7 +15,9 @@
   <a href="https://wa.me/2347061825962">
     <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
-  
+  <a href="mailto: japarmysholly@gmail.com">
+    <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=email&logoColor=white" alt="Email Badge"/>
+  </a>
 </div>
 
 
