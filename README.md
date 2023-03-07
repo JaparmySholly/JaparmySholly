@@ -5,7 +5,7 @@
 
 - :seedling: Exploring the Tech World.
 - :computer: Join one of the biggest CyberSecurity learning platform. <a href="https://tryhackme.com/JaparmySholly">
-    <img src="https://img.shields.io/badge/tryhackme-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="TryHackMe Badge"/>
+    <img src="https://img.shields.io/badge/tryhackme-white?style=for-the-badge&logo=tryhackme&logoColor=black" alt="TryHackMe Badge"/>
   </a>
 - :mailbox: How to reach me: 
  <div id="badges">
