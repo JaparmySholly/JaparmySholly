@@ -4,6 +4,8 @@
 ![](https://komarev.com/ghpvc/?username=JaparmySholly&color=blue)
 
 - :seedling: Exploring the Tech World.
+- :student: A student of Software Engineering <a href="https://www.alxafrica.com">
+    <img src="https://img.shields.io/badge/Alx-white?style=for-the-badge&logo=alx&logoColor=black" alt="Alx Badge"/>
 - :computer: Join me on one of the biggest CyberSecurity learning platform. <a href="https://tryhackme.com/p/JaparmySholly">
     <img src="https://img.shields.io/badge/tryhackme-white?style=for-the-badge&logo=tryhackme&logoColor=black" alt="TryHackMe Badge"/>
   </a>
