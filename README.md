@@ -6,7 +6,7 @@
 - :seedling: Exploring the Tech World.
 - :student: A student of Software Engineering at  <a href="https://www.alxafrica.com">
     <img src="https://img.shields.io/badge/Alx_Africa-white?style=for-the-badge&logo=alxafrica&logoColor=black" alt="Alx Africa Badge"/>
-- :computer: Join me on one of the biggest CyberSecurity learning platform.  <a href="https://tryhackme.com/p/JaparmySholly">
+- :computer: Top 1% at one of the biggest CyberSecurity learning platforms.  <a href="https://tryhackme.com/p/JaparmySholly">
     <img src="https://img.shields.io/badge/tryhackme-white?style=for-the-badge&logo=tryhackme&logoColor=black" alt="TryHackMe Badge"/>
   </a>
 - :mailbox: How to reach me: 
