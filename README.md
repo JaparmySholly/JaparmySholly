@@ -1,12 +1,12 @@
 # :man_technologist: About Me 
-#### I'm Ajagbe Pamilerin Shola. A Cyber Security Specialist, a Penetration Tester and a Software Engineer from Nigeria <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I am passionate about learning, building and solving problems. Looking forward to working with your developer team where my skills would be utilized.
+#### I'm Ajagbe Pamilerin Shola. A Cyber Security Specialist, a Penetration Tester and a Software Engineer from Nigeria <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I am passionate about learning, building and solving problems. Looking forward to working with your team where my skills would be utilized.
 
 ![](https://komarev.com/ghpvc/?username=JaparmySholly&color=blue)
 
 - :seedling: Exploring the Tech World.
 - :student: A student of Software Engineering at  <a href="https://www.alxafrica.com">
     <img src="https://img.shields.io/badge/Alx_Africa-white?style=for-the-badge&logo=alxafrica&logoColor=black" alt="Alx Africa Badge"/>
-- :computer: Top 1% at one of the biggest CyberSecurity learning platforms.  <a href="https://tryhackme.com/p/JaparmySholly">
+- :computer: Top 1% at one of the largest CyberSecurity learning platforms.  <a href="https://tryhackme.com/p/JaparmySholly">
     <img src="https://img.shields.io/badge/tryhackme-white?style=for-the-badge&logo=tryhackme&logoColor=black" alt="TryHackMe Badge"/>
   </a>
 - :mailbox: How to reach me: 
