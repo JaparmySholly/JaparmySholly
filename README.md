@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=JaparmySholly&color=blue)
 
-- :seedling: Exploring the Tech World and Cyber Space. :earth:
+- :seedling: Exploring the Tech World and Cyber Space. :world:
 - :student: A student of Software Engineering at  <a href="https://www.alxafrica.com">
     <img src="https://img.shields.io/badge/Alx_Africa-white?style=for-the-badge&logo=alxafrica&logoColor=black" alt="Alx Africa Badge"/>
 - :computer: Top 1% at one of the largest CyberSecurity learning platforms.  <a href="https://tryhackme.com/p/JaparmySholly">
