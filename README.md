@@ -1,13 +1,13 @@
 # :man_technologist: About Me 
 
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+</div> -->
 
 #### I'm Ajagbe Pamilerin Shola. A Cyber Security Specialist, a Penetration Tester and a Software Engineer from Nigeria :nigeria:. I see myself being part of one of the genuises making the planet earth a better place to live, I'm passionate about growth, learning, building and problems solving. Looking forward to working with your team where my skills would be utilized.
-<div class='gif' align='center'>
+<!-- <div class='gif' align='center'>
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" height="150">
-</div>
+</div> -->
 
 ![](https://komarev.com/ghpvc/?username=JaparmySholly&color=blue)
 
