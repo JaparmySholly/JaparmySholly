@@ -59,5 +59,5 @@
 
 ## Help me get a gadget:
 
-<a href="https://flutterwave.com/pay/cpwse7rviim1">
-    <img src="https://img.shields.io/badge/Flutterwave-purple?style=for-the-badge&logo=flutterwave&logoColor=black" alt="Flutter wave Badge"/>
+<a href="https://flutterwave.com/pay/cpwse7rviim1"><img src="https://flutterwave.com/images/logo.png" alt="Flutterwave" width="100"></a>
+    <!-- <img src="https://img.shields.io/badge/Flutterwave-purple?style=for-the-badge&logo=flutterwave&logoColor=black" alt="Fluttewave" /> -->
