@@ -57,4 +57,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JaparmySholly&theme=light&show_icons=true&locale=en" alt="JaparmySholly" /></p>
 
+## Help me get a gadget:
 
+<a href="https://flutterwave.com/pay/cpwse7rviim1">
+    <img src="https://img.shields.io/badge/Flutterwave-white?style=for-the-badge&logo=alxafrica&logoColor=black" alt="Flutter wave Badge"/>
