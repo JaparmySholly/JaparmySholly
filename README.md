@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
   <a href="mailto: japarmysholly@gmail.com">
-    <img src="https://img.shields.io/badge/Mail-blue?style=for-the-badge&logo=mail&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/E-Mail-blue?style=for-the-badge&logo=mail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
 
@@ -59,5 +59,4 @@
 
 ## Help me get a gadget:
 
-<a href="https://flutterwave.com/pay/cpwse7rviim1"><img src="https://flutterwave.com/images/logo.png" alt="Flutterwave" width="100"></a>
-    <!-- <img src="https://img.shields.io/badge/Flutterwave-purple?style=for-the-badge&logo=flutterwave&logoColor=black" alt="Fluttewave" /> -->
+<a href="https://flutterwave.com/pay/cpwse7rviim1"><img src="https://img.shields.io/badge/Flutterwave-purple?style=for-the-badge&logo=flutterwave&logoColor=black" alt="Flutter wave Badge"/>
