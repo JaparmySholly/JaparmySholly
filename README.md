@@ -17,6 +17,8 @@
 - :computer: Top 1% hacker at one of the largest CyberSecurity learning platforms.  <a href="https://tryhackme.com/p/JaparmySholly">
     <img src="https://img.shields.io/badge/tryhackme-white?style=for-the-badge&logo=tryhackme&logoColor=black" alt="TryHackMe Badge"/>
   </a>
+- :help: Help me get a gadget <a href="https://flutterwave.com/pay/cpwse7rviim1"><img src="https://img.shields.io/badge/Flutterwave-purple?style=for-the-badge&logo=flutterwave&logoColor=black" alt="Flutter wave Badge"/>
+
 - :mailbox: How to reach me: 
  <div id="badges">
   <a href="https://ng.linkedin.com/in/japarmysholly">
@@ -56,7 +58,3 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JaparmySholly&theme=light&hide_border=true&align="center"&border_radius=4.9&date_format=M%20j%5B%2C%20Y%5D)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JaparmySholly&theme=light&show_icons=true&locale=en" alt="JaparmySholly" /></p>
-
-## Help me get a gadget:
-
-<a href="https://flutterwave.com/pay/cpwse7rviim1"><img src="https://img.shields.io/badge/Flutterwave-purple?style=for-the-badge&logo=flutterwave&logoColor=black" alt="Flutter wave Badge"/>
