@@ -14,9 +14,9 @@
 - :seedling: Exploring the Tech World and Cyber Space. :earth_americas:
 - :student: A student of Software Engineering at  <a href="https://www.alxafrica.com">
     <img src="https://img.shields.io/badge/Alx_Africa-white?style=for-the-badge&logo=alxafrica&logoColor=black" alt="Alx Africa Badge"/></a>>
-- :hacker: Top 1% hacker at one of the largest CyberSecurity learning platforms.  <a href="https://tryhackme.com/p/JaparmySholly">
+- :security: Top 1% hacker at one of the largest CyberSecurity learning platforms.  <a href="https://tryhackme.com/p/JaparmySholly">
     <img src="https://img.shields.io/badge/tryhackme-white?style=for-the-badge&logo=tryhackme&logoColor=black" alt="TryHackMe Badge"/></a>
-- :computer: Help me get a gadget <a href="https://flutterwave.com/pay/cpwse7rviim1"><img src="https://flutterwave.com/images/flutterwave_logo_horizontal_rgb.png" alt="Flutterwave" width="100"></a>
+- :computer: Currently raising funds to get myself a laptop :arrow-right: <a href="https://flutterwave.com/pay/cpwse7rviim1"><img src="https://flutterwave.com/images/flutterwave_logo_horizontal_rgb.png" alt="Flutterwave" width="100"></a>
 
 - :mailbox: How to reach me: 
  <div id="badges">
