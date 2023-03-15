@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
   <a href="mailto: japarmysholly@gmail.com">
-    <img src="https://img.shields.io/badge/E-Mail-blue?style=for-the-badge&logo=mail&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/GMail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
 
