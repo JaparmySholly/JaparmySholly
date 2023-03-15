@@ -16,8 +16,7 @@
     <img src="https://img.shields.io/badge/Alx_Africa-white?style=for-the-badge&logo=alxafrica&logoColor=black" alt="Alx Africa Badge"/></a>
 - :1st_place_medal: Top 1% hacker at one of the largest CyberSecurity learning platforms.  <a href="https://tryhackme.com/p/JaparmySholly">
     <img src="https://img.shields.io/badge/tryhackme-white?style=for-the-badge&logo=tryhackme&logoColor=black" alt="TryHackMe Badge"/></a>
-- :computer: Help me get a laptop :arrow_right:   <a href="https://flutterwave.com/pay/cpwse7rviim1"
-<!-- <img src="https://flutterwave.com/images/flutterwave_logo_horizontal_rgb.png" --> target='_blank' alt="Flutterwave" width="100">Flutterwave</a>
+- :computer: Help me get a laptop :arrow_right:   <a href="https://flutterwave.com/pay/cpwse7rviim1" target='_blank' alt="Flutterwave" width="100">Flutterwave</a>
 
 - :mailbox: How to reach me: 
  <div id="badges">
