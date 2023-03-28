@@ -54,6 +54,7 @@
 ## :fire: My GitHub Statistics 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaparmySholly&layout=compact&theme=vision-friendly-dark&align="left")
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JaparmySholly&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JaparmySholly&theme=vision-friendly-dark&show_icons=true&locale=en" alt="JaparmySholly" /></p>
