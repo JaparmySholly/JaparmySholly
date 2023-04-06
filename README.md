@@ -12,7 +12,7 @@
 ![](https://komarev.com/ghpvc/?username=JaparmySholly&color=blue)
 
 - :seedling: Exploring the Tech World and Cyber Space. :earth_americas:
-- :student: A student of Software Engineering at  <a href="https://www.alxafrica.com" target='_blank' width="70" alt="AlxAfrica">ALX AFRICA</a>
+- :student: A student of Software Engineering at  <a href="https://www.alxafrica.com" target='_blank' width="50" alt="AlxAfrica">ALX AFRICA</a>
 - :1st_place_medal: Top 1% hacker at one of the largest CyberSecurity learning platforms.  <a href="https://tryhackme.com/p/JaparmySholly">
     <img src="https://img.shields.io/badge/tryhackme-blue?style=for-the-badge&logo=tryhackme&logoColor=black" width="50" alt="TryHackMe Badge"/></a>
 - :computer: Help me get a laptop :arrow_right:   <a href="https://flutterwave.com/pay/cpwse7rviim1" target='_blank' alt="Flutterwave" width="100">Flutterwave</a>
