@@ -13,8 +13,8 @@
 
 - :seedling: Exploring the Tech World and Cyber Space. :earth_americas:
 - :student: A student of Software Engineering at  <a href="https://www.alxafrica.com" target='_blank' width="50" alt="AlxAfrica">ALX Africa</a>
-- :1st_place_medal: Top 1% hacker at one of the largest CyberSecurity learning platforms.  <a href="https://tryhackme.com/p/JaparmySholly">
-    <img src="https://img.shields.io/badge/tryhackme-white?style=for-the-badge&logo=tryhackme&logoColor=black" width="90" alt="TryHackMe Badge"/></a>
+- :1st_place_medal: Top 1% hacker at <a href="https://tryhackme.com/p/JaparmySholly" width="90" target="_blank" alt="TryHackMe Badge">TryHackMe</a>
+    <!-- <img src="https://img.shields.io/badge/tryhackme-white?style=for-the-badge&logo=tryhackme&logoColor=black"  -->
 <!-- - :computer: Help me get a laptop :arrow_right:   <a href="https://flutterwave.com/pay/cpwse7rviim1" target='_blank' alt="Flutterwave" width="100">Flutterwave</a> -->
 
 - :mailbox: How to reach me: 
