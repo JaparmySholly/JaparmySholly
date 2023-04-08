@@ -17,7 +17,7 @@
     <!-- <img src="https://img.shields.io/badge/tryhackme-white?style=for-the-badge&logo=tryhackme&logoColor=black"  -->
 <!-- - :computer: Help me get a laptop :arrow_right:   <a href="https://flutterwave.com/pay/cpwse7rviim1" target='_blank' alt="Flutterwave" width="100">Flutterwave</a> -->
 
-- :mailbox: How to reach me: 
+- :mailbox: How to reach me:
  <div id="badges">
   <a href="https://ng.linkedin.com/in/japarmysholly">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
