@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div> -->
 
-#### I'm Ajagbe Pamilerin Shola. A Cyber Security Specialist, a Penetration Tester and a Software Engineer from Nigeria :nigeria:. Student of software engineering at  <a href="https://www.alxafrica.com" target='_blank' width="50" alt="AlxAfrica">ALX Africa</a> and Top 1% hacker at <a href="https://tryhackme.com/p/JaparmySholly" width="90" target="_blank" alt="TryHackMe Badge">TryHackMe</a>. I see myself being part of one of the genuises making the planet earth a better place to live, I'm passionate about growth, learning, building and problems solving. I'm looking forward to working with your team where my skills would be utilized.
+#### I'm Ajagbe Pamilerin Shola. A Cyber Security Specialist, a Penetration Tester and a Software Engineer from Nigeria :nigeria:. Student of software engineering at  <a href="https://www.alxafrica.com" target='_blank' alt="#">ALX Africa</a> and Top 1% hacker at <a href="https://tryhackme.com/p/JaparmySholly" target="_blank" alt="#">TryHackMe</a>. I see myself being part of one of the genuises making the planet earth a better place to live, I'm passionate about growth, learning, building and problems solving. I'm looking forward to working with your team where my skills would be utilized.
  
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" height="150">
 
@@ -36,7 +36,7 @@
   </a>
 </div>
 
-### Read my blog :book: 
+- Read my blog :book: 
 <a href="https://medium.com/@japarmysholly/d0e4b16afc65?source=friends_link&sk=2093cf59fb78c001b11ad3acf33bb7ab"><img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" style="height: 25px !important;width: 120px !important;" alt="Medium Badge"/>
 
 ### :hammer_and_wrench: Languages and Tools :
