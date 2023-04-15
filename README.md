@@ -36,8 +36,7 @@
   </a>
 </div>
 
-### Read my blog :book:
-<a href="https://medium.com/@japarmysholly/d0e4b16afc65?source=friends_link&sk=2093cf59fb78c001b11ad3acf33bb7ab"><img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" style="height: 25px !important;width: 120px !important;" alt="Medium Badge"/>
+### Read my blog :book: <a href="https://medium.com/@japarmysholly/d0e4b16afc65?source=friends_link&sk=2093cf59fb78c001b11ad3acf33bb7ab"><img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" style="height: 25px !important;width: 120px !important;" alt="Medium Badge"/>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
