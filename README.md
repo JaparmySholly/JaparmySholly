@@ -36,7 +36,7 @@
   </a>
 </div>
 
-## Read my blog :book:
+### Read my blog :book:
 <a href="https://medium.com/@japarmysholly/d0e4b16afc65?source=friends_link&sk=2093cf59fb78c001b11ad3acf33bb7ab"><img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" style="height: 25px !important;width: 120px !important;" alt="Medium Badge"/>
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -54,7 +54,7 @@
 </div>
 
 
-## :fire: My GitHub Statistics 
+### :fire: My GitHub Statistics 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaparmySholly&layout=compact&theme=vision-friendly-dark&align="left")
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JaparmySholly&theme=vision-friendly-dark)](https://git.io/streak-stats)
@@ -62,6 +62,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JaparmySholly&theme=vision-friendly-dark&show_icons=true&locale=en" alt="JaparmySholly" /></p>
 
 
-## Buy me a coffee
+### Buy me a coffee
 
 <a href="https://flutterwave.com/pay/cpwse7rviim1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 20px !important;width: 120px !important;" ></a>
