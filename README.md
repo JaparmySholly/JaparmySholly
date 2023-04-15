@@ -62,6 +62,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JaparmySholly&theme=vision-friendly-dark&show_icons=true&locale=en" alt="JaparmySholly" /></p>
 
 
-### Buy me a coffee
+## Buy me a coffee
 
 <a href="https://flutterwave.com/pay/cpwse7rviim1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 20px !important;width: 120px !important;" ></a>
