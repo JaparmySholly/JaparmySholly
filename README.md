@@ -15,8 +15,6 @@
 - :student: Student of software engineering at  <a href="https://www.alxafrica.com" target='_blank' width="50" alt="AlxAfrica">ALX Africa</a>
 - :1st_place_medal: Top 1% hacker at <a href="https://tryhackme.com/p/JaparmySholly" width="90" target="_blank" alt="TryHackMe Badge">TryHackMe</a>
 
-:book: Read my blog <a href="https://medium.com/@japarmysholly/d0e4b16afc65?source=friends_link&sk=2093cf59fb78c001b11ad3acf33bb7ab"><img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" style="height: 20px !important;width: 120px !important;" alt="Medium Badge"/>
-
 
 <!-- <img src="https://img.shields.io/badge/tryhackme-white?style=for-the-badge&logo=tryhackme&logoColor=black"  -->
 
@@ -37,6 +35,9 @@
     <img src="https://img.shields.io/badge/GMail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
+
+## Read my blog :book:
+<a href="https://medium.com/@japarmysholly/d0e4b16afc65?source=friends_link&sk=2093cf59fb78c001b11ad3acf33bb7ab"><img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" style="height: 25px !important;width: 120px !important;" alt="Medium Badge"/>
 
 
 ### :hammer_and_wrench: Languages and Tools :
