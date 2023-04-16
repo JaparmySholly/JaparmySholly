@@ -42,7 +42,7 @@
 
 <a href="https://medium.com/@japarmysholly/d0e4b16afc65?source=friends_link&sk=2093cf59fb78c001b11ad3acf33bb7ab"><img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" style="height: 25px !important;width: 120px !important;" alt="Medium Badge"/>
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 <div>
   <a href="https://www.w3schools.com/c/c_intro.php" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/> </a>
   <a href="https://https://www.linux.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/> </a>
@@ -57,7 +57,7 @@
 </div>
 
 
-### :fire: My GitHub Statistics 
+## :fire: My GitHub Statistics 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaparmySholly&layout=compact&theme=vision-friendly-dark&align="left")
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JaparmySholly&theme=vision-friendly-dark)](https://git.io/streak-stats)
