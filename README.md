@@ -62,7 +62,7 @@ I'm Ajagbe Pamilerin Shola. A Cyber Security Specialist, a Penetration Tester an
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaparmySholly&layout=compact&theme=vision-friendly-dark&align="left"&height='70px')
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JaparmySholly&theme=vision-friendly-dark&height='70px')](https://git.io/streak-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JaparmySholly&theme=vision-friendly-dark&show_icons=true&locale=en" alt="JaparmySholly" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JaparmySholly&theme=vision-friendly-dark&show_icons=true&locale=en" alt="JaparmySholly" /></p> -->
 
 
 ### Buy me a coffee
