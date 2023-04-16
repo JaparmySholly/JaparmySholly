@@ -40,7 +40,7 @@ I'm Ajagbe Pamilerin Shola. A Cyber Security Specialist, a Penetration Tester an
 
 - Read my blog :book: 
 
-<a href="https://medium.com/@japarmysholly/what-happens-when-you-type-google-com-in-your-browser-and-press-enter-987a546dd64b?source=friends_link&sk=675ee8ac717c2ca0b90834375b75b2c8"><img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" style="height: 25px !important;width: 100px !important;" alt="Medium Badge"/>
+<a href="https://medium.com/@japarmysholly/what-happens-when-you-type-google-com-in-your-browser-and-press-enter-987a546dd64b?source=friends_link&sk=675ee8ac717c2ca0b90834375b75b2c8"><img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" style="height: 25px !important;width: 120px !important;" alt="Medium Badge"/>
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
@@ -53,7 +53,7 @@ I'm Ajagbe Pamilerin Shola. A Cyber Security Specialist, a Penetration Tester an
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <!-- <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/> </a>
   <a href="https://nodejs.org/en/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/> </a> -->
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="50"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="70"/> </a>
 </div>
 
 
