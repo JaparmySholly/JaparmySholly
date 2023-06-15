@@ -40,7 +40,7 @@ I'm Ajagbe Pamilerin Shola. A Cyber Security Specialist, a Penetration Tester an
 
 - Read my blog :book: 
 
-<a href="https://medium.com/@japarmysholly/what-happens-when-you-type-google-com-in-your-browser-and-press-enter-987a546dd64b?source=friends_link&sk=675ee8ac717c2ca0b90834375b75b2c8"><img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" style="height: 25px !important;width: 120px !important;" alt="Medium Badge"/>
+<a href="https://medium.com/@japarmysholly"><img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" style="height: 25px !important;width: 120px !important;" alt="Medium Badge"/>
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
