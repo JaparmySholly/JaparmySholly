@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div> -->
 
-I'm Ajagbe Pamilerin Shola. A Cyber Security Specialist, a Penetration Tester and a Software Engineer from Nigeria :nigeria:. Student of software engineering at  <a href="https://www.alxafrica.com" target='_blank' alt="#">ALX Africa</a>, a Top 1% :1st_place_medal: hacker at <a href="https://tryhackme.com/p/JaparmySholly" target="_blank" alt="#">TryHackMe</a>. I see myself being part of one of the genuises making the planet earth a better place to live, I'm passionate about growth, learning, building and problems solving. I'm looking forward to working with your team where my skills would be utilized.
+I'm Ajagbe Pamilerin Shola. A Penetration Tester and a Software Engineer from :nigeria:. Learning Software engineering at  <a href="https://www.alxafrica.com" target='_blank' alt="#">ALX Africa</a>, a Top 1% :1st_place_medal: hacker at <a href="https://tryhackme.com/p/JaparmySholly" target="_blank" alt="#">TryHackMe</a>. I see myself being part of one of the genuises making the planet earth a better place to live, I'm passionate about growth, learning, building and problems solving. I'm looking forward to working with your team where my skills would be utilized.
  
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" height="150">
 
@@ -61,7 +61,8 @@ I'm Ajagbe Pamilerin Shola. A Cyber Security Specialist, a Penetration Tester an
 ## :fire: My GitHub Statistics 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaparmySholly&layout=compact&theme=vision-friendly-dark&align="left"&height='70px')
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JaparmySholly&theme=vision-friendly-dark&height='70px')](https://git.io/streak-stats)
+
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JaparmySholly&theme=vision-friendly-dark&height='70px')](https://git.io/streak-stats) -->
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JaparmySholly&theme=vision-friendly-dark&show_icons=true&locale=en" alt="JaparmySholly" /></p> -->
 
