@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div> -->
 
-I'm Ajagbe Pamilerin Shola. A Penetration Tester and a Software Engineer from :nigeria:. Graduate of Software engineering from  <a href="https://www.alxafrica.com" target='_blank' alt="#">ALX Africa</a>, a Top 1% :1st_place_medal: hacker at <a href="https://tryhackme.com/p/JaparmySholly" target="_blank" alt="#">TryHackMe</a>. I see myself being part of one of the genuises making the planet earth a better place to live, I'm passionate about growth, learning, building and problems solving. I'm looking forward to working with your team where my skills would be utilized.
+I'm Ajagbe Pamilerin Shola, Cyber Security Undergrad, a Certified AppSec Practitioner, a Certified Software Engineer <a href="https://www.alxafrica.com" target='_blank' alt="#">ALX Africa</a>, a Top 1% :1st_place_medal: hacker at <a href="https://tryhackme.com/p/JaparmySholly" target="_blank" alt="#">TryHackMe</a>. I see myself being part of one of the genuises making the planet earth a better place to live, I'm passionate about growth, learning, building and problems solving. I'm looking forward to working with your team where my skills would be utilized.
  
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" height="150">
 
@@ -52,8 +52,8 @@ I'm Ajagbe Pamilerin Shola. A Penetration Tester and a Software Engineer from :n
   <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com//" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <!-- <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/> </a>
-  <a href="https://nodejs.org/en/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/> </a> -->
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/> </a>
+  <a href="https://nodejs.org/en/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height=""/> </a>
 </div>
 
