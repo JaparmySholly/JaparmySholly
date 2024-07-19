@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div> -->
 
-I'm Ajagbe Pamilerin Shola, a Cyber Security Undergrad, Certified AppSec Practitioner, Certified Software Engineer <a href="https://www.alxafrica.com" target='_blank' alt="#">ALX Africa</a>, a Top 1% :1st_place_medal: hacker at <a href="https://tryhackme.com/p/JaparmySholly" target="_blank" alt="#">TryHackMe</a>. I see myself being part of one of the genuises making the planet earth a better place to live, I'm passionate about growth, learning, building and problems solving. I'm looking forward to working with your team where my skills would be utilized.
+I'm Ajagbe Pamilerin Shola, a Cyber Security Undergrad, Certified AppSec Practitioner, Certified Software Engineer <a href="https://www.alxafrica.com" target='_blank' alt="#">ALX Africa</a>, a Top 1% :1st_place_medal: hacker at <a href="https://tryhackme.com/p/JaparmySholly" target="_blank" alt="#">TryHackMe</a>. I'm one of the genuises making the planet earth a better place to live, I'm passionate about growth, learning, building and problems solving.
  
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" height="150">
 
@@ -42,7 +42,7 @@ I'm Ajagbe Pamilerin Shola, a Cyber Security Undergrad, Certified AppSec Practit
 
 <a href="https://medium.com/@japarmysholly"><img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" style="height: 25px !important;width: 120px !important;" alt="Medium Badge"/>
 
-## :hammer_and_wrench: Languages and Tools :
+<!-- ## :hammer_and_wrench: Languages and Tools :
 <div>
   <a href="https://www.w3schools.com/c/c_intro.php" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/> </a>
   <a href="https://https://www.linux.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/> </a>
@@ -55,7 +55,7 @@ I'm Ajagbe Pamilerin Shola, a Cyber Security Undergrad, Certified AppSec Practit
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/> </a>
   <a href="https://nodejs.org/en/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height=""/> </a>
-</div>
+</div> -->
 
 
 ## :fire: My GitHub Statistics 
