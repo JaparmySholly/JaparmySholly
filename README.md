@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div> -->
 
-I'm Ajagbe Pamilerin Shola, a graduate of Cyber Security from the Federal University of Technology, Minna, Certified AppSec Practitioner, Certified Software Engineer <a href="https://www.alxafrica.com" target='_blank' alt="#">ALX Africa</a>, a Top 1% :1st_place_medal: hacker at <a href="https://tryhackme.com/p/JaparmySholly" target="_blank" alt="#">TryHackMe</a>. I'm one of the genuises making the planet earth a better place to live, I'm passionate about growth, learning, building and problems solving.
+I'm Ajagbe Pamilerin Shola, a fresh graduate of Cyber Security from the Federal University of Technology, Minna, Certified AppSec Practitioner, Certified Software Engineer <a href="https://www.alxafrica.com" target='_blank' alt="#">ALX Africa</a>, a Top 1% :1st_place_medal: hacker at <a href="https://tryhackme.com/p/JaparmySholly" target="_blank" alt="#">TryHackMe</a>. I'm one of the genuises making the planet earth a better place to live, I'm passionate about growth, learning, building and problems solving.
  
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" height="150">
 
